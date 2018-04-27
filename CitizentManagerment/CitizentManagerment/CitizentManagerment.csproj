@@ -1,0 +1,475 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{215617C4-388B-4A2D-8D8A-517803957D9A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CitizentManagerment</RootNamespace>
+    <AssemblyName>CitizentManagerment</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Accessibility" />
+    <Reference Include="DevExpress.BonusSkins.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Pdf.v15.2.Core, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Pdf.v15.2.Drawing, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v15.2.Core, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Sparkline.v15.2.Core, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraNavBar.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPdfViewer.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraScheduler.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v15.2.Core, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraTreeList.v15.2, Version=15.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RibbonForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RibbonForm1.Designer.cs">
+      <DependentUpon>RibbonForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucArea.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucArea.Designer.cs">
+      <DependentUpon>ucArea.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucCITIZEN.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucCITIZEN.Designer.cs">
+      <DependentUpon>ucCITIZEN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucCZIS.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucCZIS.Designer.cs">
+      <DependentUpon>ucCZIS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucCZLD.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucCZLD.Designer.cs">
+      <DependentUpon>ucCZLD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucCZPP.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucCZPP.Designer.cs">
+      <DependentUpon>ucCZPP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucCZSL.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucCZSL.Designer.cs">
+      <DependentUpon>ucCZSL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucEditPassWord.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucEditPassWord.Designer.cs">
+      <DependentUpon>ucEditPassWord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucFAMILYINFOR.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucFAMILYINFOR.Designer.cs">
+      <DependentUpon>ucFAMILYINFOR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucFamilyRegister.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucFamilyRegister.Designer.cs">
+      <DependentUpon>ucFamilyRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucInsurance.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucInsurance.Designer.cs">
+      <DependentUpon>ucInsurance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucLicenseDrive.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucLicenseDrive.Designer.cs">
+      <DependentUpon>ucLicenseDrive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucLog.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucLog.Designer.cs">
+      <DependentUpon>ucLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucMainPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucMainPage.Designer.cs">
+      <DependentUpon>ucMainPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucMNG.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucMNG.Designer.cs">
+      <DependentUpon>ucMNG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucMNGLOGIN.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucMNGLOGIN.Designer.cs">
+      <DependentUpon>ucMNGLOGIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucOverView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucOverView.Designer.cs">
+      <DependentUpon>ucOverView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucPassport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucPassport.Designer.cs">
+      <DependentUpon>ucPassport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ucSalary.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucSalary.Designer.cs">
+      <DependentUpon>ucSalary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserTest.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserTest.Designer.cs">
+      <DependentUpon>UserTest.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RibbonForm1.resx">
+      <DependentUpon>RibbonForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucArea.resx">
+      <DependentUpon>ucArea.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucCITIZEN.resx">
+      <DependentUpon>ucCITIZEN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucCZIS.resx">
+      <DependentUpon>ucCZIS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucCZLD.resx">
+      <DependentUpon>ucCZLD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucCZPP.resx">
+      <DependentUpon>ucCZPP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucCZSL.resx">
+      <DependentUpon>ucCZSL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucEditPassWord.resx">
+      <DependentUpon>ucEditPassWord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucFAMILYINFOR.resx">
+      <DependentUpon>ucFAMILYINFOR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucFamilyRegister.resx">
+      <DependentUpon>ucFamilyRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucInsurance.resx">
+      <DependentUpon>ucInsurance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucLicenseDrive.resx">
+      <DependentUpon>ucLicenseDrive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucLog.resx">
+      <DependentUpon>ucLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucMainPage.resx">
+      <DependentUpon>ucMainPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucMNG.resx">
+      <DependentUpon>ucMNG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucMNGLOGIN.resx">
+      <DependentUpon>ucMNGLOGIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucOverView.resx">
+      <DependentUpon>ucOverView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucPassport.resx">
+      <DependentUpon>ucPassport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucSalary.resx">
+      <DependentUpon>ucSalary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserTest.resx">
+      <DependentUpon>UserTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Register-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Register-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User-Interface-Password-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User-blue-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User-blue-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Key-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\person-icon-blue-17.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fullstackedcolumn_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\publicfix_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boposition2_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\publicfix_32x321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\publicfix_32x322.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\publicfix_32x323.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\publicfix_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bocustomer_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\office-building-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\office-building-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Register-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Register-icon2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\switch-turn-off-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\key-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\person-icon-blue-171.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\passport-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hospital-red-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book-red-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\people-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\File-explorer-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\england-city-wallpaper-hd.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\england-city-wallpaper-hd1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\england-city-wallpaper-hd2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\england-city-wallpaper-hd3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Log-Out-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\england-city-wallpaper-hd %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-edit-delete-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sign-up-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sign-up-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sign-up-icon2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SEO-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SEO-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SEO-icon2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pencil-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clear-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\payment-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\people-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hospital-blue-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Travel-Passport-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Travel-Passport-icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\erro.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Eye-2-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2-Hot-Home-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Groups-Meeting-Dark-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\family-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agt-family-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\people-icon2.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,253 @@
+c:\users\edg\documents\visual studio 2013\Projects\CitizentManagerment\CitizentManagerment\bin\Debug\CitizentManagerment.exe.config
+c:\users\edg\documents\visual studio 2013\Projects\CitizentManagerment\CitizentManagerment\bin\Debug\CitizentManagerment.exe
+c:\users\edg\documents\visual studio 2013\Projects\CitizentManagerment\CitizentManagerment\bin\Debug\CitizentManagerment.pdb
+c:\users\edg\documents\visual studio 2013\Projects\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.csprojResolveAssemblyReference.cache
+c:\users\edg\documents\visual studio 2013\Projects\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.Properties.Resources.resources
+c:\users\edg\documents\visual studio 2013\Projects\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.csproj.GenerateResource.Cache
+c:\users\edg\documents\visual studio 2013\Projects\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.exe.licenses
+c:\users\edg\documents\visual studio 2013\Projects\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.exe
+c:\users\edg\documents\visual studio 2013\Projects\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.pdb
+c:\Users\EDG\Documents\Visual Studio 2013\Projects\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.Form_Login.resources
+C:\Users\EDG\documents\visual studio 2013\Projects\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.RibbonForm1.resources
+C:\Users\EDG\documents\visual studio 2013\Projects\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucCITIZEN.resources
+C:\Users\EDG\documents\visual studio 2013\Projects\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucMainPage.resources
+C:\Users\EDG\documents\visual studio 2013\Projects\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucLicenseDrive.resources
+C:\Users\EDG\documents\visual studio 2013\Projects\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.UserTest.resources
+C:\Users\EDG\documents\visual studio 2013\Projects\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucInsurance.resources
+C:\Users\EDG\documents\visual studio 2013\Projects\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucSalary.resources
+C:\Users\EDG\documents\visual studio 2013\Projects\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucFamilyRegister.resources
+C:\Users\EDG\documents\visual studio 2013\Projects\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucPassport.resources
+C:\Users\EDG\documents\visual studio 2013\Projects\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucMNG.resources
+C:\Users\EDG\documents\visual studio 2013\Projects\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucArea.resources
+C:\Users\EDG\documents\visual studio 2013\Projects\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucCZLD.resources
+C:\Users\EDG\documents\visual studio 2013\Projects\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucCZIS.resources
+C:\Users\EDG\documents\visual studio 2013\Projects\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucCZPP.resources
+C:\Users\EDG\documents\visual studio 2013\Projects\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucCZSL.resources
+C:\Users\EDG\Documents\Visual Studio 2013\Projects\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucMNGLOGIN.resources
+C:\Users\EDG\documents\visual studio 2013\Projects\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucFAMILYINFOR.resources
+C:\Users\EDG\documents\visual studio 2013\Projects\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucEditPassWord.resources
+C:\Users\EDG\Desktop\CitizentManagerment\CitizentManagerment\bin\Debug\CitizentManagerment.exe.config
+C:\Users\EDG\Desktop\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.exe
+C:\Users\EDG\Desktop\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.pdb
+C:\Users\EDG\Desktop\CitizentManagerment\CitizentManagerment\bin\Debug\CitizentManagerment.exe
+C:\Users\EDG\Desktop\CitizentManagerment\CitizentManagerment\bin\Debug\CitizentManagerment.pdb
+C:\Users\EDG\Desktop\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.csprojResolveAssemblyReference.cache
+C:\Users\EDG\Desktop\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.Form_Login.resources
+C:\Users\EDG\Desktop\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.Properties.Resources.resources
+C:\Users\EDG\Desktop\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.RibbonForm1.resources
+C:\Users\EDG\Desktop\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucArea.resources
+C:\Users\EDG\Desktop\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucCITIZEN.resources
+C:\Users\EDG\Desktop\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucCZIS.resources
+C:\Users\EDG\Desktop\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucCZLD.resources
+C:\Users\EDG\Desktop\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucCZPP.resources
+C:\Users\EDG\Desktop\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucCZSL.resources
+C:\Users\EDG\Desktop\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucEditPassWord.resources
+C:\Users\EDG\Desktop\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucFAMILYINFOR.resources
+C:\Users\EDG\Desktop\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucFamilyRegister.resources
+C:\Users\EDG\Desktop\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucInsurance.resources
+C:\Users\EDG\Desktop\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucLicenseDrive.resources
+C:\Users\EDG\Desktop\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucMainPage.resources
+C:\Users\EDG\Desktop\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucMNG.resources
+C:\Users\EDG\Desktop\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucMNGLOGIN.resources
+C:\Users\EDG\Desktop\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucPassport.resources
+C:\Users\EDG\Desktop\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucSalary.resources
+C:\Users\EDG\Desktop\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.UserTest.resources
+C:\Users\EDG\Desktop\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.csproj.GenerateResource.Cache
+C:\Users\EDG\Desktop\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.exe.licenses
+C:\Users\EDG\Desktop\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucLog.resources
+C:\Users\EDG\Desktop\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucOverView.resources
+H:\HeQTCSDL\CM\CitizentManagerment\CitizentManagerment\bin\Debug\CitizentManagerment.exe.config
+H:\HeQTCSDL\CM\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.exe
+H:\HeQTCSDL\CM\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.pdb
+H:\HeQTCSDL\CM\CitizentManagerment\CitizentManagerment\bin\Debug\CitizentManagerment.exe
+H:\HeQTCSDL\CM\CitizentManagerment\CitizentManagerment\bin\Debug\CitizentManagerment.pdb
+H:\HeQTCSDL\CM\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.csprojResolveAssemblyReference.cache
+H:\HeQTCSDL\CM\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.Form_Login.resources
+H:\HeQTCSDL\CM\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.Properties.Resources.resources
+H:\HeQTCSDL\CM\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.RibbonForm1.resources
+H:\HeQTCSDL\CM\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucArea.resources
+H:\HeQTCSDL\CM\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucCITIZEN.resources
+H:\HeQTCSDL\CM\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucCZIS.resources
+H:\HeQTCSDL\CM\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucCZLD.resources
+H:\HeQTCSDL\CM\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucCZPP.resources
+H:\HeQTCSDL\CM\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucCZSL.resources
+H:\HeQTCSDL\CM\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucEditPassWord.resources
+H:\HeQTCSDL\CM\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucFAMILYINFOR.resources
+H:\HeQTCSDL\CM\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucFamilyRegister.resources
+H:\HeQTCSDL\CM\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucInsurance.resources
+H:\HeQTCSDL\CM\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucLicenseDrive.resources
+H:\HeQTCSDL\CM\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucLog.resources
+H:\HeQTCSDL\CM\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucMainPage.resources
+H:\HeQTCSDL\CM\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucMNG.resources
+H:\HeQTCSDL\CM\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucMNGLOGIN.resources
+H:\HeQTCSDL\CM\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucOverView.resources
+H:\HeQTCSDL\CM\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucPassport.resources
+H:\HeQTCSDL\CM\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucSalary.resources
+H:\HeQTCSDL\CM\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.UserTest.resources
+H:\HeQTCSDL\CM\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.csproj.GenerateResource.Cache
+H:\HeQTCSDL\CM\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.exe.licenses
+H:\HeQTCSDL\CM\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.PHUONG.resources
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\CitizentManagerment.exe.config
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.exe
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.pdb
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.csprojResolveAssemblyReference.cache
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.Form_Login.resources
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.PHUONG.resources
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.Properties.Resources.resources
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.RibbonForm1.resources
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucArea.resources
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucCITIZEN.resources
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucCZIS.resources
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucCZLD.resources
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucCZPP.resources
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucCZSL.resources
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucEditPassWord.resources
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucFAMILYINFOR.resources
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucFamilyRegister.resources
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucInsurance.resources
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucLicenseDrive.resources
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucLog.resources
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucMainPage.resources
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucMNG.resources
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucMNGLOGIN.resources
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucOverView.resources
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucPassport.resources
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucSalary.resources
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.UserTest.resources
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.csproj.GenerateResource.Cache
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.exe.licenses
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\CitizentManagerment.exe
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\CitizentManagerment.pdb
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\DevExpress.BonusSkins.v15.2.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\DevExpress.Data.v15.2.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\DevExpress.Utils.v15.2.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\DevExpress.XtraBars.v15.2.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\DevExpress.XtraPdfViewer.v15.2.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\DevExpress.XtraScheduler.v15.2.Core.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\DevExpress.XtraScheduler.v15.2.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\DevExpress.Office.v15.2.Core.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\DevExpress.Data.v15.2.xml
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\DevExpress.Utils.v15.2.xml
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\DevExpress.XtraBars.v15.2.xml
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\DevExpress.XtraPdfViewer.v15.2.xml
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\DevExpress.XtraScheduler.v15.2.xml
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\DevExpress.XtraScheduler.v15.2.Core.xml
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\DevExpress.Office.v15.2.Core.xml
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\de\DevExpress.XtraPdfViewer.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\es\DevExpress.XtraPdfViewer.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\ja\DevExpress.XtraPdfViewer.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\ru\DevExpress.XtraPdfViewer.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\de\DevExpress.XtraScheduler.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\es\DevExpress.XtraScheduler.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\ja\DevExpress.XtraScheduler.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\ru\DevExpress.XtraScheduler.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\de\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\es\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\ja\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\ru\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+D:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+E:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\bin\Debug\CitizentManagerment.exe.config
+E:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.exe
+E:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.pdb
+E:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.csprojResolveAssemblyReference.cache
+E:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.Form_Login.resources
+E:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.Properties.Resources.resources
+E:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.RibbonForm1.resources
+E:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucArea.resources
+E:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucCITIZEN.resources
+E:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucCZIS.resources
+E:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucCZLD.resources
+E:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucCZPP.resources
+E:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucCZSL.resources
+E:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucEditPassWord.resources
+E:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucFAMILYINFOR.resources
+E:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucFamilyRegister.resources
+E:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucInsurance.resources
+E:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucLicenseDrive.resources
+E:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucLog.resources
+E:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucMainPage.resources
+E:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucMNG.resources
+E:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucMNGLOGIN.resources
+E:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucOverView.resources
+E:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucPassport.resources
+E:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.ucSalary.resources
+E:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.UserTest.resources
+E:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.csproj.GenerateResource.Cache
+E:\CNTT\Visual Studio\Projects\CitizentManagerment\CitizentManagerment\CitizentManagerment\obj\Debug\CitizentManagerment.exe.licenses
